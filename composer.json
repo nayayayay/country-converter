@@ -1,0 +1,21 @@
+{
+    "name": "chibifr/country-converter",
+    "description": "A PHP package to convert a country ISO to country name and vice-versa.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Auber",
+            "email": "auber.simon@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ChibiFR\\CountryConverter\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.0.*"
+    }
+}
