@@ -13,7 +13,7 @@ composer require chibifr/country-converter
 ## Usage
 
 You can now use it really easily! After you required the package with composer, start using it:
-```
+```php
 <?php
 // Require the composer's vendor autoload file
 require './vendor/autoload.php';
