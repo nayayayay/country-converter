@@ -14,5 +14,8 @@
             "ChibiFR\\CountryConverter\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.0.*"
+    }
 }
