@@ -13,6 +13,7 @@ composer require chibifr/country-converter
 ## Usage
 
 You can now use it really easily! After you required the package with composer, start using it:
+
 **Without Exception management**
 ```php
 <?php
